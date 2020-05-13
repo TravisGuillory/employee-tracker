@@ -17,21 +17,6 @@ You need to set up your MySQL database before you can run the code.
   * Node
   * MySQL and MySQL Workbench (or the terminal instead of MySQL Workbench)
 
-### Installing
-    1. Go to https://github.com/ruthtech/employee-tracker and click on the "Clone or Download" button. 
-    2. Choose "Download ZIP". 
-    3. Unzip into a directory. If you're on Windows, open File Explorer and navigate to the download directory. Select the ZIP file, right click, and choose "Extract All". Accept the default location.
-    4. Once the file is unzipped, navigate to employee-tracker-master.
-    5. If you don't have the prerequisites installed, type the following:
-       * npm install inquirer
-       * npm install mysql
-       * npm install console-table
-    6. Then use your Git terminal to execute index.js. 
-
-
-## Running the tests
-There is no automated test suite for this command line application. Instead, I ran the following manual tests. 
-
 ### Manual tests
     1. "View all employees"
     2. "View all employees by department"
