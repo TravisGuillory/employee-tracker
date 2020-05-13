@@ -77,17 +77,8 @@ Travis Guillory
 ## License
 MIT
 
-## Acknowledgments
-Thanks to the following:
-* U of T Coding Bootcamp (https://bootcamp.learn.utoronto.ca/coding/)
-* Eclipse (https://www.eclipse.org/downloads/)
-* Node (https://nodejs.org/en/download/)
-     * inqiurer
-     * mysql
-     * console.table
-* Git Terminal (https://git-scm.com/downloads)
-* Filipe Laborde (https://github.com/codefreeze8) Instructor of the U of T Coding Bootcamp, he wrote the async-db.js file that is checked in here. (I modified it slightly by adding a logging statement to log the SQL query when there was a SQL syntax error.)
-* ConvertIO (https://convertio.co/) for converting my MP4 to an animated GIF.
+
+
 
        
 
